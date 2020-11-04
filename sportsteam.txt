@@ -1,0 +1,28 @@
+
+<!DOCTYPE=HTML>
+<html>
+<head><title>SPORTS TEAM</title></head>
+<body>
+	<header>
+		<h1>IPL SPORTS TEAMS</h1>
+		<a href="https://www.mumbaiindians.com/"><i>Mumbai Indians</i></a><br>
+		<a href="https://www.chennaisuperkings.com/"><i>Chennai Super Kings</i></a><br>
+		<a href="https://www.royalchallengers.com/"><i>Royal Challengers Banglore</i></a><br>
+	</header>
+	<hr>
+	<section>
+		<img src="iplimg.jpg" usemap="#img">
+		<map name="img">
+			<area shape="rect" coords="249,129,145,41" alt="MI" href="https://en.wikipedia.org/wiki/Mumbai_Indians">
+			<area shape="poly" coords="517,33,457,68,456,116,562,122,564,57" alt="CSK" href="https://en.wikipedia.org/wiki/Chennai_Super_Kings">
+			<area shape="circle" coords="521,286,71" alt="rcb" href="https://en.wikipedia.org/wiki/Royal_Challengers_Bangalore">
+		</map>
+	</section>
+<hr>
+	<footer>
+		<i>Contact me at:</i><br>
+		<p>Email-xyz.com</p>
+		
+	</footer>
+</body>
+</html>
